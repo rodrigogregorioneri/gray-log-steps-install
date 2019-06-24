@@ -1,4 +1,4 @@
-// Aula 2 - Instalação do GrayLog na CentOS
+// Install
 
 Agora, instalação no CENTOS, vamos primeiramente desabilitar o SELinux:
 
